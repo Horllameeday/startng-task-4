@@ -1,0 +1,44 @@
+
+body {
+    background-color: lightblue;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: red;
+}
+
+a:hover {
+    color: pink;
+}
+
+a:active {
+    color: green;
+}
+
+th {
+    text-align: centre;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid green;
+}
+
+tr:hover {
+    background-color: skyblue;
+}
+
+.button {
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
